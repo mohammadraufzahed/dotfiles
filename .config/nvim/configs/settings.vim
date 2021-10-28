@@ -13,3 +13,4 @@ colorscheme gruvbox
 set background=dark
 " Set numbers
 set number
+" HI From github
