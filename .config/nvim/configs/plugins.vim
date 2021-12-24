@@ -4,4 +4,6 @@ call plug#begin()
     Plug 'vim-airline/vim-airline-themes'
     Plug 'morhetz/gruvbox'
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
+    Plug 'leafgarland/typescript-vim'
+    Plug 'nicwest/vim-http'
 call plug#end()
