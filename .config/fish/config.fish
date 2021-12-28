@@ -7,3 +7,6 @@ set -x PATH "/home/morty/.local/bin:$PATH"
 set EDITOR "/bin/nvim"
 # Configs repository
 alias dotfiles="/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
+alias ls="exa"
+# Set the default node
+nvm use lts
